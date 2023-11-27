@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanif Nur</h1>
-<img align="right" alt="coding" width="550" height="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"
+<img align="right" alt="coding" width="560" height="330" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sihanip&label=Profile%20views&color=0e75b6&style=flat" alt="sihanip" /> </p>
 
