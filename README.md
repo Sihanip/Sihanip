@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanif Nur</h1>
 <img align="right" alt="coding" width="555" height="335" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sihanip&label=Profile%20views&color=0e75b6&style=flat" alt="sihanip" /> </p>
-
 🌱 I’m currently learning and exploring **React Js** and **UX Design**
 
 <h3 align="left">Connect with me:</h3>
