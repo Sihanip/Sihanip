@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanif Nur</h1>
 <img align="right" alt="coding" width="555" height="335" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"
+<br> </br>
 
 🌱 I’m currently learning and exploring **React Js** and **UX Design**
 
